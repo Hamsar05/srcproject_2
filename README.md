@@ -22,7 +22,7 @@
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/Hamsar05/HAM_TECH-H.git
+   git clone https://github.com/Hamsar05/srcproject_2.git
    ```
 
 
